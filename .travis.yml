@@ -17,6 +17,6 @@ script:
   - node common/scripts/install-run-rush.js rebuild --verbose
   - echo -en 'travis_fold:end:build\\r'
 
-  - echo 'Publishing...'\\r'
+  - echo 'Publishing...'
   - node common/scripts/install-run-rush.js publish --a
-  - echo 'Publishing Done..'\\r'
+  - echo 'Publishing Done..'
