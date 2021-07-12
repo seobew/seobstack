@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import { Header, Thing, Sidebar } from '@seob/ds';
+import { Header, Thing, Sidebar, Card } from "@seob/ds";
 
 function App() {
   return (
@@ -8,6 +8,7 @@ function App() {
       <Header />
       <Sidebar />
       <Thing />
+      <Card />
     </div>
   );
 }
