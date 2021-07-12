@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "design-system",
+  "name": "@seob/ds",
   "author": "seob",
   "module": "dist/design-system.esm.js",
   "size-limit": [
