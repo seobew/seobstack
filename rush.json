@@ -449,15 +449,13 @@
     {
       "packageName": "landing",
       "projectFolder": "apps/landing",
-      "reviewCategory": "production",
-      "shouldPublish": true
+      "reviewCategory": "production"
     },
     {
       "packageName": "@seob/ds",
       "projectFolder": "libs/design-system",
-      "reviewCategory": "production",
-      "shouldPublish": true
-    },
+      "reviewCategory": "production"
+    }
     // 
     // {
     //   "packageName": "my-toolchain",
