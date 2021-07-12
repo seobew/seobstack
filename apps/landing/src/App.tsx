@@ -1,12 +1,12 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
-import { Header, Thing } from '@seob/ds';
+import { Header, Thing, Sidebar } from '@seob/ds';
 
 function App() {
   return (
     <div className="App">
       <Header />
+      <Sidebar />
       <Thing />
     </div>
   );
