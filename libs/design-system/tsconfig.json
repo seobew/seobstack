@@ -33,6 +33,5 @@
     "noEmit": true,
     // no implicit any
     "noImplicitAny": false,
-    "types": ["google.maps"]
   }
 }
