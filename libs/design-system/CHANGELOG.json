@@ -2,6 +2,18 @@
   "name": "@seob/ds",
   "entries": [
     {
+      "version": "0.1.5",
+      "tag": "@seob/ds_v0.1.5",
+      "date": "Mon, 12 Jul 2021 10:35:59 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "updated"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.1.4",
       "tag": "@seob/ds_v0.1.4",
       "date": "Mon, 12 Jul 2021 10:26:47 GMT",
