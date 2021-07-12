@@ -447,6 +447,11 @@
     // },
     // 
     {
+      "packageName": "landing",
+      "projectFolder": "apps/landing",
+      "reviewCategory": "production"
+    },
+    {
       "packageName": "@seob/ds",
       "projectFolder": "libs/design-system",
       "reviewCategory": "production"
