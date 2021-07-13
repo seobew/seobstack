@@ -94,7 +94,7 @@
      *
      * The default value is false.
      */
-    // "preventManualShrinkwrapChanges": true,
+    // "preventManualShrinkwrapChanges": true
 
     /**
      * If true, then `rush install` will use the PNPM workspaces feature to perform the
@@ -449,12 +449,14 @@
     {
       "packageName": "landing",
       "projectFolder": "apps/landing",
-      "reviewCategory": "production"
+      "reviewCategory": "production",
+      "shouldPublish": false
     },
     {
       "packageName": "@seob/ds",
       "projectFolder": "libs/design-system",
-      "reviewCategory": "production"
+      "reviewCategory": "production",
+      "shouldPublish": true
     }
     // 
     // {
