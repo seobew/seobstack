@@ -2,6 +2,20 @@
   "name": "landing",
   "entries": [
     {
+      "version": "0.1.8",
+      "tag": "landing_v0.1.8",
+      "date": "Tue, 13 Jul 2021 06:04:39 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "update header to 2",
+            "author": "seob <seobew@gmail.com>",
+            "commit": "633c375f205f89a2e962746f0d3517473c07b6a3"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.1.7",
       "tag": "landing_v0.1.7",
       "date": "Tue, 13 Jul 2021 05:46:31 GMT",
