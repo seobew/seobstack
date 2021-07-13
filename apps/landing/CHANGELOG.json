@@ -2,6 +2,18 @@
   "name": "landing",
   "entries": [
     {
+      "version": "0.1.5",
+      "tag": "landing_v0.1.5",
+      "date": "Tue, 13 Jul 2021 05:01:34 GMT",
+      "comments": {
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@seob/ds\" from `~0.1.5` to `~0.1.8`"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.1.4",
       "tag": "landing_v0.1.4",
       "date": "Mon, 12 Jul 2021 10:35:59 GMT",
