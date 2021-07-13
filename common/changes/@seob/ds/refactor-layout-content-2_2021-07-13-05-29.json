@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@seob/ds",
+      "comment": "update layout content to 2",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@seob/ds",
+  "email": "seobew@gmail.com"
+}
