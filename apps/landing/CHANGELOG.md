@@ -1,6 +1,13 @@
 # Change Log - landing
 
-This log was last generated on Tue, 13 Jul 2021 05:41:10 GMT and should not be manually modified.
+This log was last generated on Tue, 13 Jul 2021 05:46:31 GMT and should not be manually modified.
+
+## 0.1.7
+Tue, 13 Jul 2021 05:46:31 GMT
+
+### Patches
+
+- update temp header
 
 ## 0.1.6
 Tue, 13 Jul 2021 05:41:10 GMT
