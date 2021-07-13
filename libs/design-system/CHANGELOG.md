@@ -1,6 +1,13 @@
 # Change Log - @seob/ds
 
-This log was last generated on Tue, 13 Jul 2021 05:39:29 GMT and should not be manually modified.
+This log was last generated on Tue, 13 Jul 2021 05:54:36 GMT and should not be manually modified.
+
+## 0.1.12
+Tue, 13 Jul 2021 05:54:36 GMT
+
+### Patches
+
+- update content to 4
 
 ## 0.1.11
 Tue, 13 Jul 2021 05:39:29 GMT
