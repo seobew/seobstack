@@ -2,6 +2,30 @@
   "name": "landing",
   "entries": [
     {
+      "version": "0.1.11",
+      "tag": "landing_v0.1.11",
+      "date": "Tue, 13 Jul 2021 06:51:44 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "update header content to 7",
+            "author": "seob <seobew@gmail.com>",
+            "commit": "8277d930d7d173e0f6a8c0db1693b87ee311143a"
+          },
+          {
+            "comment": "update header content to 7",
+            "author": "seob <seobew@gmail.com>",
+            "commit": "2512003e1f9bba4de8de9c968f9724182c465584"
+          },
+          {
+            "comment": "update header content to 9",
+            "author": "seob <seobew@gmail.com>",
+            "commit": "8568c360d3ba99e580c4f3a39543903c16ceebcf"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.1.10",
       "tag": "landing_v0.1.10",
       "date": "Tue, 13 Jul 2021 06:08:21 GMT",
