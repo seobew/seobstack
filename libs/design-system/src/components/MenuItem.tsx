@@ -5,5 +5,5 @@ interface MenuItemProps {
 }
 
 export const MenuItem = ({ text }: MenuItemProps) => {
-  return <span>{text}</span>;
+  return <span style={{ marginLeft: 20 }}>{text}</span>;
 };

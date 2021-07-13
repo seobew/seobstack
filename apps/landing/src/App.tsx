@@ -1,14 +1,13 @@
 import React from "react";
 import "./App.css";
-import { Header, Thing, Sidebar, Card } from "@seob/ds";
+import { Card, Layout } from "@seob/ds";
 
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Sidebar />
-      <Thing />
-      <Card />
+      <Layout>
+        <Card />
+      </Layout>
     </div>
   );
 }
