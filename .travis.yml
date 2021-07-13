@@ -14,4 +14,5 @@ script:
 
   - echo 'Publishing...'
   - node common/scripts/install-run-rush.js version --bump 
+  - git push origin master
   - echo 'Publishing Done..'
