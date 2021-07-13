@@ -14,5 +14,6 @@ script:
 
   - echo 'Publishing...'
   - node common/scripts/install-run-rush.js version --bump 
+  - git remote set-url origin https://github.com/seobew/seobstack.git
   - git push origin master
   - echo 'Publishing Done..'
