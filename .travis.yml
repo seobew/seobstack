@@ -19,4 +19,6 @@ script:
 
   - echo 'Publishing...'
   - node common/scripts/install-run-rush.js publish -a
+  - git add -A
+  - git commit -m "Version bump and Update change log"
   - echo 'Publishing Done..'
