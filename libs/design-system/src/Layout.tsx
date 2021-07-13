@@ -9,7 +9,7 @@ export const Layout: React.FC = ({ children }) => {
       <div style={{ position: 'relative', height: 'calc(100vh - 60px)', padding: 10 }}>
         <Sidebar />
         {children}
-        <div>2</div>
+        <div>3</div>
       </div>
     </div>
   );
