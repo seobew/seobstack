@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "landing",
+      "comment": "update temp header",
+      "type": "patch"
+    }
+  ],
+  "packageName": "landing",
+  "email": "seobew@gmail.com"
+}
