@@ -18,5 +18,4 @@
 
 # This example enforces that commit message should contain a minimum amount of
 # description text.
-exec < /dev/tty
-node common/scripts/install-run-rush.js change
+node common/scripts/install-run-rush.js change < /dev/tty
