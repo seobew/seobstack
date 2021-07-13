@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@seob/ds",
+      "comment": "update content to 4",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@seob/ds",
+  "email": "seobew@gmail.com"
+}
