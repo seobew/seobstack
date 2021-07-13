@@ -2,6 +2,18 @@
   "name": "@seob/ds",
   "entries": [
     {
+      "version": "0.1.10",
+      "tag": "@seob/ds_v0.1.10",
+      "date": "Tue, 13 Jul 2021 05:31:08 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "update layout content to 2"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.1.8",
       "tag": "@seob/ds_v0.1.8",
       "date": "Tue, 13 Jul 2021 05:01:34 GMT",
