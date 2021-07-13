@@ -2,7 +2,7 @@
   "changes": [
     {
       "packageName": "@seob/ds",
-      "comment": "Change menu tag to span for inline",
+      "comment": "add card component",
       "type": "patch"
     }
   ],
