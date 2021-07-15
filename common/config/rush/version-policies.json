@@ -67,7 +67,7 @@
      */
     "definitionName": "individualVersion",
   
-    "policyName": "MyRandomLibraries",
+    "policyName": "MyRandomLibraries"
   
     /**
      * (Optional) This can be used to enforce that all packages in the set must share a common
@@ -76,6 +76,6 @@
      * inappropriately.  The minor/patch version parts will be bumped independently according
      * to the types of changes made to each project, according to the "rush change" command.
      */
-    "lockedMajor": 3
+    // "lockedMajor": 3
   }
 ]
