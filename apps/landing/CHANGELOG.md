@@ -1,6 +1,19 @@
 # Change Log - landing
 
-This log was last generated on Tue, 13 Jul 2021 07:50:22 GMT and should not be manually modified.
+This log was last generated on Thu, 15 Jul 2021 01:41:40 GMT and should not be manually modified.
+
+## 0.2.0
+Thu, 15 Jul 2021 01:41:40 GMT
+
+### Minor changes
+
+- update header to 19
+
+### Patches
+
+- update header to 20
+- update header to 20 - 2
+- update header to 20 -3
 
 ## 0.1.13
 Tue, 13 Jul 2021 07:50:22 GMT

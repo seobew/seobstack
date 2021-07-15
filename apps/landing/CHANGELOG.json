@@ -2,6 +2,29 @@
   "name": "landing",
   "entries": [
     {
+      "version": "0.2.0",
+      "tag": "landing_v0.2.0",
+      "date": "Thu, 15 Jul 2021 01:41:40 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "update header to 19"
+          }
+        ],
+        "patch": [
+          {
+            "comment": "update header to 20"
+          },
+          {
+            "comment": "update header to 20 - 2"
+          },
+          {
+            "comment": "update header to 20 -3"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.1.13",
       "tag": "landing_v0.1.13",
       "date": "Tue, 13 Jul 2021 07:50:22 GMT",
