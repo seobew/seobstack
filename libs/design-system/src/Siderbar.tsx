@@ -1,5 +1,7 @@
 import React from 'react';
 
+const MENUS = ['Home','About', 'People', 'Leave'];
+
 export const Sidebar = () => {
   return (
     <div
@@ -13,7 +15,7 @@ export const Sidebar = () => {
         backgroundColor: 'greenyellow',
       }}
     >
-      sidebar
+      {MENUS.map((m) => <div style={{padding: 5}}>{m}</div>)}
     </div>
   );
 };
