@@ -450,7 +450,7 @@
       "packageName": "landing",
       "projectFolder": "apps/landing",
       "reviewCategory": "production",
-      "shouldPublish": true
+      "shouldPublish": false
     },
     {
       "packageName": "@seob/ds",
