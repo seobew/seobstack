@@ -5,7 +5,6 @@ import { Card, Layout } from "@seob/ds";
 function App() {
   return (
     <div className="App">
-      <div>this is test - 20</div>
       <Layout>
         <Card />
       </Layout>
