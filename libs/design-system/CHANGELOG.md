@@ -1,6 +1,13 @@
 # Change Log - @seob/ds
 
-This log was last generated on Tue, 13 Jul 2021 05:54:36 GMT and should not be manually modified.
+This log was last generated on Thu, 15 Jul 2021 05:51:42 GMT and should not be manually modified.
+
+## 0.1.13
+Thu, 15 Jul 2021 05:51:42 GMT
+
+### Patches
+
+- add some menus to sidebar
 
 ## 0.1.12
 Tue, 13 Jul 2021 05:54:36 GMT

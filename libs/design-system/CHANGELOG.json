@@ -2,6 +2,18 @@
   "name": "@seob/ds",
   "entries": [
     {
+      "version": "0.1.13",
+      "tag": "@seob/ds_v0.1.13",
+      "date": "Thu, 15 Jul 2021 05:51:42 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "add some menus to sidebar"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.1.12",
       "tag": "@seob/ds_v0.1.12",
       "date": "Tue, 13 Jul 2021 05:54:36 GMT",

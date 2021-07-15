@@ -5,6 +5,7 @@ import { Card, Layout } from "@seob/ds";
 function App() {
   return (
     <div className="App">
+      <div>custom header</div>
       <Layout>
         <Card />
       </Layout>
