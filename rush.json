@@ -449,7 +449,8 @@
     {
       "packageName": "landing",
       "projectFolder": "apps/landing",
-      "reviewCategory": "production"
+      "reviewCategory": "production",
+      "versionPolicyName": "MyRandomLibraries"
     },
     {
       "packageName": "@seob/ds",
