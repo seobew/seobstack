@@ -15,7 +15,7 @@ export const Header = () => {
     >
       <div>logo</div>
       <div>
-        {['home', 'about'].map((t) => (
+        {['home', 'about', 'login'].map((t) => (
           <MenuItem text={t} />
         ))}
       </div>
